@@ -1,14 +1,14 @@
 body {
     background-color: black;
-    background-image: url("https://cdn.pixabay.com/photo/2016/10/20/18/35/sunrise-1756274_960_720.jpg");
-    background-repeat: no-repeat;
-    background-position: center; 
     color: white;
 }
 
 .content {
     border: 4px solid rgb(0, 147, 233);
     padding: 30px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/10/20/18/35/sunrise-1756274_960_720.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
     float: center;
     width: fit-content;
     background-color: aqua;
